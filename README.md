@@ -6,4 +6,6 @@ Welcome to our course GitHub account, where we will post code from examples deve
 
 Folders are organized by week. 
 
+Thanks, 
+
 The Team
