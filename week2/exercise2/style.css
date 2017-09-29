@@ -1,0 +1,53 @@
+/* For Instructors: Please type in CSS during lesson */
+
+/* h2 { 
+  font-size: 40px;
+  color: pink;
+} */
+
+/* make the h2 with id="products_title" purple */
+/* h2#products_title { 
+  color: purple; 
+} */
+
+/* make any element with id="products_title" purple */
+/*#products_title { 
+  color: purple; 
+}*/
+
+/* remove the bullets from all li with class="product_item" */
+/* li.product_item { 
+  list-style-type: none; 
+  display: block;
+} */
+
+/* make any element with class="product_item blue" */
+/* .product_item { 
+  color: blue; 
+} */
+
+/* #info_section {
+  padding: 0 20px;
+  font-size: 20px;
+} */
+
+/* .important {
+  color: red;
+} */
+
+/* * {
+  font-family: 'Helvetica', sans-serif;
+} */
+
+/* #info_section {
+  width: 20%;
+} */
+/*
+span {
+  width: 20%;
+}*/
+
+/* * {
+  background-color: gray;
+  font-family: 'Helvetica', sans-serif;
+} */
